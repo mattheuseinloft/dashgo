@@ -4,3 +4,6 @@
 
 ## Configurando Chakra UI
 3. yarn add @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer-motion
+
+## Criando Header
+4. yarn add react-icons
