@@ -7,3 +7,6 @@
 
 ## Criando Header
 4. yarn add react-icons
+
+## Página: Dashboard
+5. yarn add apexcharts react-apexcharts
