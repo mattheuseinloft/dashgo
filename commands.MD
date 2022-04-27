@@ -13,3 +13,6 @@
 
 ## Form de autenticação
 6. yarn add react-hook-form
+
+## Validação dos dados
+7. yarn add yup @hookform/resolvers
