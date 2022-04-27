@@ -10,3 +10,6 @@
 
 ## Página: Dashboard
 5. yarn add apexcharts react-apexcharts
+
+## Form de autenticação
+6. yarn add react-hook-form
