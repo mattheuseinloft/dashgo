@@ -18,4 +18,7 @@
 7. yarn add yup @hookform/resolvers
 
 ## Configurando MirageJS
-yarn add miragejs -D
+8. yarn add miragejs -D
+
+## Factories e seeds
+9. yarn add @faker-js/faker -D
