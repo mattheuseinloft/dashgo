@@ -16,3 +16,6 @@
 
 ## Validação dos dados
 7. yarn add yup @hookform/resolvers
+
+## Configurando MirageJS
+yarn add miragejs -D
