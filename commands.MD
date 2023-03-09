@@ -22,3 +22,6 @@
 
 ## Factories e seeds
 9. yarn add @faker-js/faker -D
+
+## Configurando React Query
+10. yarn add react-query
